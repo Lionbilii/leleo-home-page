@@ -135,7 +135,7 @@ const config = {
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
 		{ go: "👍 点击此处前往", img: "/img/OW.png", title: "守望网盘 密码8888", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://hggg.lanzouv.com/b060qfzxg/", show: false },
-		{ go: "👍 点击此处前往", img: "/img/QQ.png", title: "守望提卡机器人·QQ", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://ti.qq.com/open_qq/index2.html?url=mqqapi%3a%2f%2fuserprofile%2ffriend_profile_card%3fsrc_type%3dweb%26version%3d1.0%26source%3d2%26uin%3d332236830", show: false },
+		{ go: "👍 点击此处前往", img: "/img/QQ.png", title: "守望提卡机器人·QQ", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://qm.qq.com/q/dUOQ5ar4EU", show: false },
 		{ go: "👍 点击此处前往", img: "/img/lanz.png", title: "LOL 黑号、科技", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://linlin.sad.olltp.cn/", show: false },
 		{ go: "👍 点击此处前往", img: "/img/LOL.png", title: "LOL网盘 密码8888", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://zlxz.uupan.net/login.aspx?d=zlxz", show: false },
 		{ go: "👍 点击此处前往", img: "/img/QQ.png", title: "联系QQ", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://qm.qq.com/q/MksZEaz3yO", show: false },
