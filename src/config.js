@@ -1,14 +1,14 @@
 const config = {
 	//网页元数据
 	metaData: {
-		title: '甜甜的个人主页🎉',
-		description: '欢迎来到甜甜的科技世界！',
-		keywords: '甜甜,甜甜,个人主页,个人网站',
+		title: '甜甜货源站🎉',
+		description: '欢迎来到甜甜货源站！',
+		keywords: '甜甜,甜甜,货源站,个人网站',
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
 	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi, I'm Leleo", // 标题
+	welcometitle: "一个不正经的玩家  | 唯一QQ 2042101", // 标题
 
 	// 颜色配置
 	color: {
@@ -53,12 +53,8 @@ const config = {
 
 	//社交按钮
 	socialPlatformIcons: [
-		{ icon: "mdi-github", link: "https://www.github.com/leleo886" },
-		{ icon: "mdi-email", link: "mailto:leleo886@foxmail.com" },
-		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
-		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
-		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
-		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
+		{ icon: "mdi-email", link: "mailto:2042101@qq.com" },
+		{ icon: "mdi-qqchat", link: "https://qm.qq.com/q/MksZEaz3yO" },
 	],
 
 	//打字机
@@ -138,17 +134,17 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "Project 1", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "Project 2", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "守望网盘 密码8888", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://hggg.lanzouv.com/b060qfzxg/", show: false },
+		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "售后·QQ群", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1bqpKNlV1-SgZnqT5UpuDk2wcsznmfDC&authKey=yK5TgHzTNnQdDbR%2FyyGePFgC1OqjkphX9fvRQ3NwtC9bB2UKtJnvQbjW3YWQ%2FnQ1&noverify=0&group_code=218739364", show: false },
+		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "LOL 黑号、科技", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://linlin.sad.olltp.cn/", show: false },
+		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "LOL网盘 密码8888", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://zlxz.uupan.net/login.aspx?d=zlxz", show: false },
+		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "联系QQ", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://qm.qq.com/q/MksZEaz3yO", show: false },
 		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "Project 7", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 	],
 
-	statement: ["备案号：XXICP备123456789号", "Copyright © 2025 Leleo"],
+	statement: ["备案号：粤XICP备123456789号", "Copyright © 2025 tiantian"],
 }
 
 export default config
