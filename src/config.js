@@ -134,14 +134,14 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "守望网盘 密码8888", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://hggg.lanzouv.com/b060qfzxg/", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "售后·QQ群", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1bqpKNlV1-SgZnqT5UpuDk2wcsznmfDC&authKey=yK5TgHzTNnQdDbR%2FyyGePFgC1OqjkphX9fvRQ3NwtC9bB2UKtJnvQbjW3YWQ%2FnQ1&noverify=0&group_code=218739364", show: false },
-		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "LOL 黑号、科技", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://linlin.sad.olltp.cn/", show: false },
-		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "LOL网盘 密码8888", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://zlxz.uupan.net/login.aspx?d=zlxz", show: false },
-		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "联系QQ", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://qm.qq.com/q/MksZEaz3yO", show: false },
-		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "Project 7", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "👍点击前往", img: "/img/OW.png", title: "守望网盘 密码8888", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://hggg.lanzouv.com/b060qfzxg/", show: false },
+		{ go: "👍 点击前往", img: "/img/Qqun.png", title: "售后·QQ群", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1bqpKNlV1-SgZnqT5UpuDk2wcsznmfDC&authKey=yK5TgHzTNnQdDbR%2FyyGePFgC1OqjkphX9fvRQ3NwtC9bB2UKtJnvQbjW3YWQ%2FnQ1&noverify=0&group_code=218739364", show: false },
+		{ go: "👍 点击前往", img: "/img/lanz.png", title: "LOL 黑号、科技", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://linlin.sad.olltp.cn/", show: false },
+		{ go: "👍 点击前往", img: "/img/LOL.png", title: "LOL网盘 密码8888", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://zlxz.uupan.net/login.aspx?d=zlxz", show: false },
+		{ go: "👍 点击前往", img: "/img/QQ.png", title: "联系QQ", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://qm.qq.com/q/MksZEaz3yO", show: false },
+		{ go: "🎨 点击前往", img: "/img/sunshine.jpg", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "💍 点击前往", img: "/img/sunshine.jpg", title: "Project 7", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🔍 点击前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 	],
 
 	statement: ["备案号：粤XICP备123456789号", "Copyright © 2025 tiantian"],
